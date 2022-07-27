@@ -1,0 +1,8 @@
+P18
+HOUSEHOLD TYPE
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see <a href="http://www.census.gov/prod/cen2010/doc/sf1.pdf"> http://www.census.gov/prod/cen2010/doc/sf1.pdf</a>.
+
+<p>NOTE:  A  household that has at least one member of the household related to the householder by birth, marriage, or adoption is a "Family household."  Same-sex couple households are included in the family households category if there is at least one additional person related to the householder by birth or adoption.  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.  Responses of "same-sex spouse" were edited during processing to "unmarried partner."  "Nonfamily households" consist of people living alone and households which do not have any members related to the householder.</p>
+
+Source: U.S. Census Bureau, 2010 Census.
+
